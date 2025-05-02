@@ -1,2 +1,2 @@
 # html-portfolio
-Udemy Full Stack Bootcamp Course Project
+Udemy Full Stack Web Development Bootcamp Course Project
